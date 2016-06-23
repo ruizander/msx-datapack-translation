@@ -6,6 +6,19 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Part with mini table of contents
 - Figure 7.18
+- Section 3.1
+  - 3.1.1 Memory configuration
+  - 3.1.2 I/O Configuration
+  - 3.1.3 Built-in and external identifier data
+  - 3.1.4 Warning about OPLL direct access
+- MSX-MUSIC BASIC Extension
+  - Summary
+  - Chapter Notation
+  - BASIC Extension command list
+- BASIC Extension Explained
+  - Call AUDREG
+  - Call BGM
+  - Call MUSIC
 
 ### Changed
 - Typefont (from computer modern to alegreya)
