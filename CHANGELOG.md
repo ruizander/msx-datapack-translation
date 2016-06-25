@@ -19,10 +19,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   - Call AUDREG
   - Call BGM
   - Call MUSIC
+  - Call PITCH
 
 ### Changed
 - Typefont (from computer modern to alegreya)
 - Mono Typefont (from computer modern to inconsolata)
+- Alegreya to kpfonts
 
 ### Fixed
 - SubSection was not shown on table of contents.
