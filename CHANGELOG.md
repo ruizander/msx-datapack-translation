@@ -20,6 +20,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   - Call BGM
   - Call MUSIC
   - Call PITCH
+  - Call PLAY (1)
+    - MML Notation
+    - Rhythm MML Specification
+    - MML Correspondence
+  - Call PLAY (2)
+  - Call STOPM
 
 ### Changed
 - Typefont (from computer modern to alegreya)
