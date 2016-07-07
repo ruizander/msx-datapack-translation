@@ -26,6 +26,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
     - MML Correspondence
   - Call PLAY (2)
   - Call STOPM
+  - Call TEMPER
+  - Call TRANSPOSE
 
 ### Changed
 - Typefont (from computer modern to alegreya)
