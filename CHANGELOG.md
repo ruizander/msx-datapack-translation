@@ -28,6 +28,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   - Call STOPM
   - Call TEMPER
   - Call TRANSPOSE
+  - Call VOICE
 
 ### Changed
 - Typefont (from computer modern to alegreya)
