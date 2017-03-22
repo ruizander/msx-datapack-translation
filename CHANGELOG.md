@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 ### Added
+- Describe the translation as a fan work, not affiliated to ASCII Corporation
 - Part with mini table of contents
 - Figure 7.18
 - Section 3.1
@@ -29,6 +30,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   - Call TEMPER
   - Call TRANSPOSE
   - Call VOICE
+    - Tone Library
+    - Instrument Parameters Data Format
+  - Call VOICE COPY
+- Illegal MSX-AUDIO Statements
 
 ### Changed
 - Typefont (from computer modern to alegreya)
