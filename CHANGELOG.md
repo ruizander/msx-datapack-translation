@@ -33,7 +33,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
     - Tone Library
     - Instrument Parameters Data Format
   - Call VOICE COPY
-- Illegal MSX-AUDIO Statements
+  - Illegal MSX-AUDIO Statements
 
 ### Changed
 - Typefont (from computer modern to alegreya)
