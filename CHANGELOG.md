@@ -33,15 +33,30 @@ This project adheres to [Semantic Versioning](http://semver.org/).
     - Tone Library
     - Instrument Parameters Data Format
   - Call VOICE COPY
-  - Illegal MSX-AUDIO Statements
+- Illegal MSX-AUDIO Statements
+- FM BIOS
+  - Summary
+  - FM BIOS Allocation Size
+  - FM BIOS Functions
+    - WRTOPL (4110H)
+    - INIOPL (4113H)
+    - MSTART (4116H)
+    - MSTOP (4119H)
+    - RDDATA (411CH)
+    - OPLDRV (411FH)
+    - TSTBGM (4122H)
+  - FM BIOS Data Structures
 
 ### Changed
 - Typefont (from computer modern to alegreya)
 - Mono Typefont (from computer modern to inconsolata)
 - Alegreya to kpfonts
+- kpfonts to URW-Garamond (better quality for printing)
 
 ### Fixed
 - SubSection was not shown on table of contents.
+- Index section and subsection typefont formatting.
+- Header chapter formatting.
 
 ## first commit - 2016-6-23
 ### Added
