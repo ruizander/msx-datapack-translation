@@ -46,6 +46,17 @@ This project adheres to [Semantic Versioning](http://semver.org/).
     - OPLDRV (411FH)
     - TSTBGM (4122H)
   - FM BIOS Data Structures
+    - Header Section
+    - Data Section
+      - Melody Section
+      - Percussion Section
+    - Instrument Data Storage
+  - FM BIOS usage notes
+  - Calling FM BIOS
+- YM 2413 (OPLL)
+  - OPLL overview
+  - Functions
+  - Operation Description
 
 ### Changed
 - Typefont (from computer modern to alegreya)
